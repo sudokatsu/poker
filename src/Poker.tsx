@@ -1,7 +1,7 @@
 import './Poker.css';
 import Table from './Assets/Table';
 
-function App() {
+function Poker() {
   return (
     <div className='container'>
       <div className='table'>
@@ -11,4 +11,4 @@ function App() {
   );
 }
 
-export default App;
+export default Poker;
